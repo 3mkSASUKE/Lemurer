@@ -4,6 +4,11 @@ Background-repeat: no-repeat;
 
 }
 
+li {
+  color: red;
+}
+
+
 .logoimage img {
   width: 100px;
   height: 100px;
